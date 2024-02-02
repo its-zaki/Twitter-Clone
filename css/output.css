@@ -1197,3 +1197,103 @@ video {
   cursor: pointer;
 
 }
+
+.sticky{
+  position: fixed;
+  
+}
+.sticky2{
+  position: fixed;
+  top: 40px;
+  width: 32%;
+  
+}
+.sticky3{
+  position: fixed;
+  top: 320px;
+  /* width: 32%; */
+  
+}
+.second{
+  margin-left: 80px;
+}
+.third{
+  width: 64%;
+}
+.subscribe{
+  margin-top: 60px;
+  
+}
+.search{
+  width: 33%;
+}
+.foryou:hover{
+  background-color: #d0d1d1;
+  cursor: pointer;
+}
+.following:hover{
+  background-color: #d0d1d1;
+  cursor: pointer;
+}
+.setting:hover{
+  background-color: #d0d1d1;
+  cursor: pointer;
+}
+.header{
+  width: 56%;
+}
+.setting{
+  /* padding: 13px 30px; */
+}
+.input-section{
+  margin-top: 80px;
+  
+}
+/* .first-icon{
+  margin-left: 0;
+} */
+.input-icon{
+  margin-right: 5px;
+  color : #1d9bf0;
+}
+.input-icon:hover{
+  background-color: #c6e8ff ;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.input-selector{
+  outline: none;
+}
+.input-selector::placeholder{
+  font-size: 1.4rem;
+  color: #7d7d7d;
+}
+.logo{
+  width: 50px;
+}
+.options{
+  margin-top:15px;
+  margin-right:20px;
+  justify-content: space-between;
+}
+.see-more{
+  color: #1d9bf0;
+  font-size: 1.1rem;
+}
+.sub-head
+{
+  color: #7d7d7d;
+}
+.post-img{
+  width: 95%;
+  border-radius: 20px;
+}
+.post-icons:hover{
+  color: #1d9bf0 ;
+  cursor: pointer;
+}
+.post-section:hover{
+  background-color: rgb(245, 243, 243);  
+  cursor: pointer;
+  
+}
